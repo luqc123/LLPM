@@ -2,9 +2,11 @@
 //
 
 #include "stdafx.h"
+#include "..\..\Library\Basic.h"
 
+using namespace ll;
 
-int main()
+int wmain()
 {
     return 0;
 }

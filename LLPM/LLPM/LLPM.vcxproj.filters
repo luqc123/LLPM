@@ -47,5 +47,8 @@
     <ClCompile Include="LLPM.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Library\Basic.cpp">
+      <Filter>Library\Basic\Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
