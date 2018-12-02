@@ -39,6 +39,9 @@
     <ClInclude Include="..\..\Library\Basic.h">
       <Filter>Library\Basic\Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Library\String.h">
+      <Filter>Library\Basic\Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

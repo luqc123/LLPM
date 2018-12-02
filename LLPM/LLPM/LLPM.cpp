@@ -6,8 +6,10 @@
 
 using namespace ll;
 
-int wmain()
+int main()
 {
-    return 0;
+	int boolean = 1;
+	CHECK_ERROR(boolean == 0 || boolean == 1, L"boolean 参数必须是0或者1.");
+	return 0;
 }
 
